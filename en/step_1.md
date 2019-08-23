@@ -47,7 +47,8 @@ You can find the completed project in the 'Volunteer Resources' section, which c
 ## Learning Objectives
 + Iteration (looping) over a string variable;
 + The `find()` method;
-+ The modulus operator (`%`).
++ The modulus operator (`%`);
++ Understand the skills which are developed towards a career involving Computing.
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
