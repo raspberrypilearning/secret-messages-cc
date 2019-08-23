@@ -14,7 +14,6 @@ You could also give the user a personalised message, based on their score:
 
 ![screenshot](images/messages-best-friends.png)
 
-
-
+If you want to create interactive games using the BBC micro:bit try out 'Interactive badge', the first project in the BBC micro:bit module. There’s also plenty of other modules to try!
 
 --- /challenge ---
