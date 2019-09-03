@@ -17,3 +17,5 @@ You could also give the user a personalised message, based on their score:
 If you want to create interactive games using the micro:bit try out 'Interactive badge', the first project in the micro:bit module. There’s also plenty of other modules to try!
 
 --- /challenge ---
+
+![progress bar](images/p1-6.png)
