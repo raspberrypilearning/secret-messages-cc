@@ -23,4 +23,5 @@ If you want to create interactive games using the micro:bit try out 'Interactive
 Click on the 'Click me' button to try the next project:
 
 <a href="https://codeclub.org/en/projects-cc">
+
 <img src="images/Clickme.png">
