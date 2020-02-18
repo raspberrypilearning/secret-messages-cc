@@ -20,7 +20,8 @@ If you want to create interactive games using the micro:bit try out 'Interactive
 
 ![progress bar](images/p1-6.png)
 
-Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new:
+Click on the 'Click me' button to try the next project:
 
-<a href="https://codeclub.org/en/python1">
+<a href="https://codeclub.org/en/projects-cc">
+
 <img src="images/Clickme.png">
